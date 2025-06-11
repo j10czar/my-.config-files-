@@ -28,6 +28,11 @@ Edit ~/.zshrc with this repo as refrence
 - [Sketchybar](https://felixkratz.github.io/SketchyBar/setup)
 Edit ~/.config/sketchybar/sketchybarrc with this repo as refrence
 
+## Extras
+Lazygit
+Lazydocker
+Cmatrix
+Mactop
 
 ## Aliases
 | Alias | Function |
