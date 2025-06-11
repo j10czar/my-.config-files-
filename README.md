@@ -1,18 +1,53 @@
-# My mac .config files!
-
-
+# My Terminal Configs
+## A Highly Customizable and Fast Mac Workflow
 <img width="1470" alt="Screenshot 2024-12-08 at 2 36 24 PM" src="https://github.com/user-attachments/assets/6c085cbd-94d5-40d7-a6f1-05c3033b8e6c">
 
-Font: **0xProto Nerd Font Mono**
+[NVIM Custom Config](https://github.com/j10czar/lazyvim-custom-config)
 
-# Tools
 
-## TMUX
+## How It Works
+Tmux is the center of this entire workflow. With sesh allowing us to easily create and attach to existing tmux sessions it allows to tmux to pretty much represent a specifc headspace. LazyVim allows for extremely fast file editing/navigation. When combined it allows for an amazing and fast development experience but with a very high learning curve.
+## Requirements
+Must install in order:
+- iTerm2 or Alacritty
+- [Nerd Font](https://www.nerdfonts.com/font-downloads)
+- Color Scheme for [iTerm2](https://iterm2colorschemes.com/) or [Alacritty](https://github.com/alacritty/alacritty-theme)
+Configure color scheme (For alacritty please see the alacritty conf file)
+- [OhMyZsh](https://ohmyz.sh/#install)
+- [P10K](https://ohmyz.sh/#install)
+Configure p10k
+- [LazyVim](https://www.lazyvim.org/installation)
+Configure LazyVim (Instructions [here](https://github.com/j10czar/lazyvim-custom-config))
+- zoxide via brew
+- eza via brew
+- sesh via brew
+- tmux via brew
+Edit ~/.tmux.conf with this repo as refrence
+- neofetch via brew
+Edit ~/.zshrc with this repo as refrence
+- [Sketchybar](https://felixkratz.github.io/SketchyBar/setup)
+Edit ~/.config/sketchybar/sketchybarrc with this repo as refrence
 
-## Alacritty
 
-## Sketchybar
+## Aliases
+| Alias | Function |
+| ------ | ------ |
+| k | Pulls up window to easily kill sessions|
+| s | Pulls up window to easily start sessions|
+| leader+K | Opens sesh |
 
-## NeoVim
+## Helpful Tmux Binds to Remember
 
-## OhMyZsh
+| Bind | Function |
+| ------ | ------ |
+| <ud> | Toggles diagnostic info |
+| leader+K | Opens sesh |
+
+
+## Corne Keymappings (Coming Soon!)
+
+
+
+### Inspiration
+https://www.youtube.com/watch?v=-yX3GjZfb5Y
+https://www.youtube.com/watch?v=uOnL4fEnldA&t=83s
