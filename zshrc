@@ -1,3 +1,4 @@
+
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
 # confirmations, etc.) must go above this block; everything else may go below.
@@ -47,6 +48,9 @@ alias ls="eza --icons=always"
 alias tls="tmux list-sessions"
 alias cd="z"
 
+
+alias s='sesh connect "$(sesh list -i | gum filter --limit 1 --placeholder '\'''\'' --prompt='\''💎 Open Session: '\'')"'
+alias k='tmux kill-session -t "$(sesh list | gum filter --limit 1 --placeholder '\'''\'' --prompt='\''❌ Kill Session: '\'')"'
 function tcd() {
   tmux attach -d -t "$1"
 }
@@ -54,3 +58,4 @@ function tcd() {
 
 # --- Final Steps---
 neofetch
+
