@@ -19,6 +19,8 @@ Configure p10k
 - [LazyVim](https://www.lazyvim.org/installation)
 Configure LazyVim (Instructions [here](https://github.com/j10czar/lazyvim-custom-config))
 - zoxide via brew
+- gum via brew
+- fzf via brew
 - eza via brew
 - sesh via brew
 - tmux via brew
