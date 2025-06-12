@@ -1,6 +1,7 @@
 # My Terminal Configs
 ## A Highly Customizable and Fast Mac Workflow
-<img width="1470" alt="Screenshot 2024-12-08 at 2 36 24 PM" src="https://github.com/user-attachments/assets/6c085cbd-94d5-40d7-a6f1-05c3033b8e6c">
+<img width="3008" alt="Screenshot 2025-06-12 at 10 43 35 AM" src="https://github.com/user-attachments/assets/3209d2a6-7bd5-4192-bea6-5db6cb73b19e" />
+
 
 [NVIM Custom Config](https://github.com/j10czar/lazyvim-custom-config)
 
