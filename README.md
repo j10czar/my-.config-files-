@@ -52,8 +52,18 @@ Mactop
 | leader+K | Opens sesh |
 
 
-## Corne Keymappings (Coming Soon!)
+## Corne Keymappings
+![image](https://github.com/user-attachments/assets/605d1ab1-b76a-498a-bf09-380f0ebc3912)
 
+
+### Layer 0
+![image](https://github.com/user-attachments/assets/43c843f7-df5e-4244-96e7-f7dd87cbe6d0)
+
+### Layer 1
+![image](https://github.com/user-attachments/assets/09fcd2bc-7f7b-4401-8a9d-7a8e4362db07)
+
+### Layer 2
+![image](https://github.com/user-attachments/assets/d408a99f-ea97-43d6-839a-33d65d9123e3)
 
 
 ### Inspiration
