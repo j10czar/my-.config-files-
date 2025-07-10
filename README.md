@@ -57,14 +57,38 @@ Mactop
 
 
 ### Layer 0
-![image](https://github.com/user-attachments/assets/43c843f7-df5e-4244-96e7-f7dd87cbe6d0)
+<img width="952" height="357" alt="image" src="https://github.com/user-attachments/assets/ef243f04-6732-4674-a50f-a102855e444f" />
 
 ### Layer 1
-![image](https://github.com/user-attachments/assets/09fcd2bc-7f7b-4401-8a9d-7a8e4362db07)
+<img width="964" height="348" alt="image" src="https://github.com/user-attachments/assets/02d1e3c8-7aa9-477a-b260-5d3e15b10f01" />
 
 ### Layer 2
-![image](https://github.com/user-attachments/assets/d408a99f-ea97-43d6-839a-33d65d9123e3)
+<img width="963" height="371" alt="image" src="https://github.com/user-attachments/assets/a5e9e4f6-7ae9-47e9-925d-89b9c6eba947" />
 
+- alt+' is homerow bind.
+- shift homerow allows for search
+- ctl  homerow allows for scroll
+
+- cmd+: allows for dictation
+
+
+## VSCode vim config
+'''
+{
+  "workbench.colorTheme": "Tokyo Night",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8"
+  },
+  "python.formatting.provider": "autopep8",
+  "editor.formatOnSave": true,
+  "vim.useSystemClipboard": true
+}
+'''
+
+Also run the following command:
+'''
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
+'''
 
 ### Inspiration
 https://www.youtube.com/watch?v=-yX3GjZfb5Y
